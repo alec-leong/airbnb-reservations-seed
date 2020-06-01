@@ -1,0 +1,8 @@
+node_modules/
+csvs/logs/*.log
+csvs/*.csv
+db/nosql/airbnb/
+db/nosql/seed-log/*.log
+db/sql/airbnb/
+db/sql/seed-log/*.log
+package-lock.json
